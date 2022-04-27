@@ -2,5 +2,5 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted. Test!
+Email me at roger.bosman {at} kuleuven.be
+<!-- https://orcid.org/0000-0002-6693-4653  -->
