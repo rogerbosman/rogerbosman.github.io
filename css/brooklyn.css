@@ -7,6 +7,9 @@
   src: local('PT Sans'), local('PTSans-Regular'), url(PTSans-Regular.woff) format('woff');
 }
 
+strong{
+    font-weight:bold;
+}
 
 body {
     background:#fff;
